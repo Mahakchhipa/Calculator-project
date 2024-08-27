@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    border: 2px solid black;
+    padding: 15px;
+    margin:4px;
+    background-color: gray;
+    font-weight: bold;
+    color:white;
+    border-radius: 5px;
+    
+}
+span:hover{
+    background-color: orange;
+    color: black;
+}
+.abc{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+input{
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
